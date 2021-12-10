@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    width: 50%;
+    background-color: black;
+    
+}
+.container{
+    background-color: rgb(48, 47, 47);
+    color: whitesmoke;
+    border:none;
+    border-radius: 2px;
+}
+.container button{
+    border-radius: 3px;
+    border: none;
+    font-size: small;
+    padding: 4px 10px;
+}
+input [type="text"] {
+    background-color:rgb(78, 74, 74);
+    border: none;
+    color: white;
+}
+.ati{
+    text-align: left;
+}
